@@ -1,0 +1,6 @@
+{
+  "name": "GitViz",
+  "description": "Interactive Git learning playground, command explorer, terminal simulator, and visual repository graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
